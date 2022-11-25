@@ -20,4 +20,3 @@ Through the process of learning i did todo app using some fancy technology.
 - Fork and clone this repository
 - Run `npm install` in your terminal
 - Run `npm start`
-- ... (maybe, you would have to add something more for this instruction)
