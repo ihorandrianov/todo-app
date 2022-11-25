@@ -1,4 +1,23 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Todo app
+
+Simple Todo app using react
+
+- [DEMO LINK](https://ihorandrianov.github.io/react_todo-app-with-api/)
+
+## Description
+
+Through the process of learning i did todo app using some fancy technology.
+
+### Technology used:
+
+- Typescript
+- React
+- Bulma
+- React-query
+
+### Installing
+
+- Fork and clone this repository
+- Run `npm install` in your terminal
+- Run `npm start`
+- ... (maybe, you would have to add something more for this instruction)
